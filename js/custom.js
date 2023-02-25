@@ -84,7 +84,7 @@ $('.banner_main').slick({
           breakpoint:  575.98,
           settings: {
             infinite: true,
-            slidesToShow: 2,
+            slidesToShow: 1,
             slidesToScroll: 1,
             speed:500,
             arrows:false,
