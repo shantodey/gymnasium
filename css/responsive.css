@@ -1,8 +1,6 @@
 
 @media (min-width: 320px) and ( max-width: 575.98px){ 
-    body{
-        overflow-x: hidden;
-    }
+ 
     .navbar-toggler{
         color: white;
     }
