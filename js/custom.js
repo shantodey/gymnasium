@@ -2,7 +2,7 @@
 $(window).on('load', function () {
   setTimeout(function () {
     $('#preloader').fadeOut();
-  }, 750);
+  }, 200);
 });
 window.onscroll = function() {
   scrollFunction()
