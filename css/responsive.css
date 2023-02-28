@@ -62,8 +62,8 @@
         display: none !important;
     }
   
- #partners{
- display: none;
+      #partners{
+      display: none;}
  }
 
 
@@ -99,7 +99,8 @@
     .membership_m{
         padding-bottom: 5px;
     }
-
+      #partners{
+      display: none;}
   }
 
 
@@ -131,5 +132,6 @@
         transform: translate(-50%,-50%);
     }
    
-   
+      #partners{
+      display: none;}
    }
