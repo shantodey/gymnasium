@@ -135,3 +135,13 @@
       #partners{
       display: none;}
    }
+     @media ( max-width: 992px)  and (min-width: 1199.98px) {  
+          #partners{
+           display: none;
+          }
+     }
+    @media ( max-width: 1200)  and (min-width: 1400px) {  
+          #partners{
+           display: none;
+          }
+     }
